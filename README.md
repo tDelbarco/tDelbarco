@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Static Badge](https://img.shields.io/badge/holamundo-ffffff?style=for-the-badge&logo=Python)
+<img style="height: 50px" alt="Static Badge" src="https://img.shields.io/badge/holamundo-ffffff?style=for-the-badge&logo=Python">
+
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=tDelbarco&show_icons=true&theme=dark"
