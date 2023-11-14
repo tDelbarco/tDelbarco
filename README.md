@@ -2,13 +2,11 @@
 
 ### Hi there
 
-## A que me dedico actualmente
-actualmente me encuentro cursando la carrera Data Science de henry en la etapa anterior a proyectos individuales
+## Actualmente:
+* me encuentro cursando la carrera Data Science de henry en la etapa anterior a proyectos individuales
+* ampliando mis conocimientos diariamente para lograr mi meta de trabajar en el mundo de data
 
-## Me gustaria
-*
-*
-*
+
 ##  Herramientas
 *
 *
@@ -16,25 +14,12 @@ actualmente me encuentro cursando la carrera Data Science de henry en la etapa a
 ## Idiomas 
 * Español(Nativo)
 * Ingles(aprendiendo)
-<!--
-**tDelbarco/tDelbarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Static Badge](https://img.shields.io/badge/holamundo-ffffff?style=for-the-badge&logo=Python)
 <img style="height: 50px" alt="Static Badge" src="https://img.shields.io/badge/holamundo-ffffff?style=for-the-badge&logo=Python">
+<img alt="Static Badge" src="https://img.shields.io/badge/%20?style=for-the-badge&logo=Python">
 
 
 <picture>
