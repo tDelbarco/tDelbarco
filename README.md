@@ -30,7 +30,7 @@ Además, tengo la intención de evolucionar hacia el rol de Data Scientist. Me a
 <!-- <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Looker-131517?style=for-the-badge&logo=looker"> -->
 <!-- <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/VisualStudioCode-131517?style=for-the-badge&logo=visualstudiocode">-->
 
-## Soft Skills
+## 🤝Soft Skills
 * Aprendizaje continuo
 * escucha activa
 * empatia
@@ -40,7 +40,7 @@ Además, tengo la intención de evolucionar hacia el rol de Data Scientist. Me a
 * etica profesional
 
 
-## Idiomas 
+## 🌐Idiomas 
 * Español(Nativo)
 * Ingles(aprendiendo)
 
