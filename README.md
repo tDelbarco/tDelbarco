@@ -3,22 +3,25 @@
 ### Hi there
 
 ## quien soy?
-mi nombre es tomás del barco soy de argentina tengo 20 años y actualmente soy estudiante en la carrera data science de henry
+Mi nombre es Tomás del Barco, soy de Argentina, tengo 20 años y actualmente soy estudiante en la carrera de Data Science en Henry.
 
 ## que rol me interesa
-Mi interés se centra en la posición de Data Analyst, ya que considero que es un punto de partida invaluable para ingresar al apasionante mundo de Data Science. La razón principal es mi convicción de que esta posición ofrece una sólida base para desarrollar habilidades analíticas esenciales. Además, veo en el rol de Data Analyst una oportunidad única para acelerar mi aprendizaje y mejorar mis habilidades blandas en un período relativamente corto.
+Mi interés se centra en la posición de Data Analyst, ya que considero que es un punto de partida invaluable para ingresar al apasionante mundo de Data Science.
+La razón principal es mi convicción de que esta posición ofrece una sólida base para desarrollar habilidades analíticas esenciales.
+Además, veo en el rol de Data Analyst una oportunidad única para acelerar mi aprendizaje y mejorar mis habilidades blandas en un período relativamente corto.
 
+<!--
 Una vez me sienta sólido en mi papel como analista de datos, mi objetivo es ampliar mi horizonte profesional adentrándome en otras áreas cruciales del campo. Aspiro a explorar los desafíos que ofrece el Data Engineering, donde puedo aplicar y expandir mi destreza técnica en la construcción y gestión de infraestructuras de datos robustas.
-Además, tengo la intención de evolucionar hacia el rol de Data Scientist. Me atrae la perspectiva de utilizar la ciencia de datos para descubrir patrones, generar insights significativos y contribuir a la toma de decisiones estratégicas. Estas ambiciones reflejan mi compromiso constante con el aprendizaje y la evolución en este emocionante campo, donde cada etapa representa una oportunidad para crecer y contribuir de manera significativa."
+Además, tengo la intención de evolucionar hacia el rol de Data Scientist. Me atrae la perspectiva de utilizar la ciencia de datos para descubrir patrones, generar insights significativos y contribuir a la toma de decisiones estratégicas. Estas ambiciones reflejan mi compromiso constante con el aprendizaje y la evolución en este emocionante campo, donde cada etapa representa una oportunidad para crecer y contribuir de manera significativa."-->
 
 ## Soft Skills
-*Aprendizaje continuo
-*escucha activa
-*empatia
-*Gestion de estres
-*resilencia
-*auto-motivacion
-*etica profesional
+* Aprendizaje continuo
+* escucha activa
+* empatia
+* Gestion de estres
+* resilencia
+* auto-motivacion
+* etica profesional
 
 
 ## Idiomas 
