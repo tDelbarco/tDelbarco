@@ -2,10 +2,10 @@
 
 ### Hi there
 
-## quien soy?
+## 🫡quien soy?
 Mi nombre es **Tomás del Barco**, soy de Argentina, tengo 20 años y actualmente soy estudiante en la carrera de Data Science en Henry.
 
-## que rol me interesa
+## 💼que rol me interesa
 Mi interés se centra en la posición de **Data Analyst**, ya que considero que es un punto de partida invaluable para ingresar al apasionante mundo de Data Science.
 La razón principal es mi convicción de que esta posición ofrece una sólida base para desarrollar habilidades analíticas esenciales.
 Además, veo en el rol de **Data Analyst** una oportunidad única para acelerar mi aprendizaje y mejorar mis habilidades blandas en un período relativamente corto.
