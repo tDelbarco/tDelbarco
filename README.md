@@ -37,7 +37,7 @@ Además, tengo la intención de evolucionar hacia el rol de Data Scientist. Me a
 * Gestion de estres
 * resilencia
 * auto-motivacion
-* etica profesional
+
 
 
 ## 🌐Idiomas 
