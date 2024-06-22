@@ -1,19 +1,15 @@
 
-
 ### Hi there
 
 ## 🫡quien soy?
-Mi nombre es **Tomás del Barco**, soy de Argentina, tengo 20 años y actualmente soy estudiante en la carrera de Data Science en Henry.
+Mi nombre es **Tomás del Barco**, soy de Argentina, tengo 21 años y soy graduado de la carrera Data science de Henry, y actualmente me encuentro enfocado en mejorar mis habilidades como **Data Engineer**.
+Mi nombre es **Tomás del Barco**. Soy de Argentina y tengo 21 años. Me gradué de la carrera de Data Science en Henry y actualmente estoy enfocando en mejorar mis habilidades como Data Engineer
 
 ## 💼que rol me interesa
-Mi interés se centra en la posición de **Data Analyst**, ya que considero que es un punto de partida invaluable para ingresar al apasionante mundo de Data Science.
-La razón principal es mi convicción de que esta posición ofrece una sólida base para desarrollar habilidades analíticas esenciales.
-Además, veo en el rol de **Data Analyst** una oportunidad única para acelerar mi aprendizaje y mejorar mis habilidades blandas en un período relativamente corto.
+Mi interés actual se centra en la posición de **Data Engineer**, ya que considero que es uno de los puestos más demandados y, a su vez, me resulta muy interesante. Veo en este rol una oportunidad única para una rápida inserción en el mundo laboral y una gran variedad de cosas nuevas que aprender.
 
+Una vez que me sienta sólido en mi papel como ingeniero de datos, mi objetivo es ampliar mi horizonte profesional profundizando en otras ramas de la ciencia de datos, más relacionadas con el **Machine Learning**.
 
-<!--
-Una vez me sienta sólido en mi papel como analista de datos, mi objetivo es ampliar mi horizonte profesional adentrándome en otras áreas cruciales del campo. Aspiro a explorar los desafíos que ofrece el Data Engineering, donde puedo aplicar y expandir mi destreza técnica en la construcción y gestión de infraestructuras de datos robustas.
-Además, tengo la intención de evolucionar hacia el rol de Data Scientist. Me atrae la perspectiva de utilizar la ciencia de datos para descubrir patrones, generar insights significativos y contribuir a la toma de decisiones estratégicas. Estas ambiciones reflejan mi compromiso constante con el aprendizaje y la evolución en este emocionante campo, donde cada etapa representa una oportunidad para crecer y contribuir de manera significativa."-->
 ##  🛠️Herramientas
 
 <!-- ![Static Badge](https://img.shields.io/badge/holamundo-ffffff?style=for-the-badge&logo=Python) -->
