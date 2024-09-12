@@ -20,7 +20,7 @@ Una vez que me sienta sólido en mi papel como ingeniero de datos, mi objetivo e
 * <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Docker-131517?style=for-the-badge&logo=docker"><img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/PowerShell-131517?style=for-the-badge&logo=powershell"><img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Render-131517?style=for-the-badge&logo=render">
 <!--https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg-->
 <!-- <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Excel-131517?style=for-the-badge&logo=microsoftexcel"> -->
-<!-- <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Looker-131517?style=for-the-badge&logo=looker"> -->
+<!-- <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/Looker-131517?style=for-the-badge&logo=looker">       -->
 <!-- <img style="height: 30px" alt="Static Badge" src="https://img.shields.io/badge/VisualStudioCode-131517?style=for-the-badge&logo=visualstudiocode">-->
 
 ## 🤝Soft Skills
