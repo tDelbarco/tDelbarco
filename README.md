@@ -1,7 +1,7 @@
 ## 🫡 ¿Quién soy?
 
 Mi nombre es **Tomás del Barco**, soy de Argentina, tengo 21 años y soy graduado de la carrera Data Science de Henry. Actualmente me encuentro enfocado en mejorar mis habilidades como **Data Engineer**. Estoy poniendo en práctica mis habilidades en proyectos que simulan un ambiente laboral, lo que me permite adquirir experiencia real y mejorar continuamente.
-
+  
 ## 💼que rol me interesa
 Mi interés actual se centra en la posición de **Data Engineer**, ya que considero que es uno de los puestos más demandados y, a su vez, me resulta muy interesante. Veo en este rol una oportunidad única para una rápida inserción en el mundo laboral y una gran variedad de cosas nuevas que aprender.
 
